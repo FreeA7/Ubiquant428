@@ -4,17 +4,16 @@
 
 |-- Ubiquant428
 
-​    |-- .gitignore
+​		|-- .gitignore
 
-​    |-- README.md
+​    	|-- README.md
 
-​    |-- original_data
+​    	|-- original_data
 
-​        |-- .gitignore
+​        |		|-- .gitignore
 
-​        |-- example_sample_submission.csv
+​        |		|-- example_sample_submission.csv
 
-​        |-- example_test.csv
+​        |		|-- example_test.csv
 
-​        |-- train.csv
-
+​        |		|-- train.csv
