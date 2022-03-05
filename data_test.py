@@ -93,7 +93,7 @@ if __name__ == '__main__':
                 if count == NUM_WORKER:
                     break
             elif isinstance(con, tuple):
-                with open('./corr.csv', 'a') as w:
+                with open('./statistical_analysis/corr.csv', 'a') as w:
                     w.write(con[1])
             else:
                 raise TypeError('ERROR')
