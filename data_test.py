@@ -18,7 +18,6 @@ NUM_WORKER = 15
 
 # =============================================================================
 # # 读取原始数据并将数据按照产品ID拆分成不同的csv
-# Products = {}
 # count = 0
 # with open('./original_data/train.csv', 'r') as f:
 #     f.readline()
