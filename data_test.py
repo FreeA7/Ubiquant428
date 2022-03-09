@@ -5,7 +5,6 @@ Created on Tue Mar  1 23:51:04 2022
 @author: FreeA7
 """
 
-from utils import Product
 import logging
 import os
 import multiprocessing
