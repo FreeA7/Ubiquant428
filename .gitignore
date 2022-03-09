@@ -3,3 +3,4 @@
 original_data/*
 logs/*
 literature/*
+__pycache__/
